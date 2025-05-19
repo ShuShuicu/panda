@@ -1,6 +1,6 @@
 
 .panda_head_box {
-    background: var(--bg_color);
+    background: var(--head_bg_color);
     color: white;
     position: relative;
     text-align: center;

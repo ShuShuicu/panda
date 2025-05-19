@@ -83,7 +83,7 @@
     <script type="module">
 	import devtools from './js/moukey.js';
     	if (devtools.isOpen) {
-    	    console.log("\n%c Panda子主题-https://www.scbkw.com", "color: #fff;background: linear-gradient(55deg, #212121 0%, #212121 40%, #323232 calc(40% + 1px), #323232 60%, #250095 calc(60% + 1px), #950090 70%, #ff14ed calc(70% + 1px), #6414ff 100%);padding:5px; border-radius: 5px;");
+    	    console.log("\n%c Panda子主题-https://www.scbkw.cn", "color: #fff;background: linear-gradient(55deg, #212121 0%, #212121 40%, #323232 calc(40% + 1px), #323232 60%, #250095 calc(60% + 1px), #950090 70%, #ff14ed calc(70% + 1px), #6414ff 100%);padding:5px; border-radius: 5px;");
 	        console.log("%c如果你通过控制台的方式获取CSS样式或者其他东东，相信你可能也看到本说明。 如果你想一声不吭的拿走，请自己把所有涉及到的链接图片保存到本地及保留版权来源，谢谢！","color: #fff;background: linear-gradient(55deg, #212121 0%, #212121 40%, #323232 calc(40% + 1px), #323232 60%, #250095 calc(60% + 1px), #950090 70%, #ff14ed calc(70% + 1px), #6414ff 100%);padding:5px; border-radius: 5px;line-height: 18px;");
 	        
 	    } else {
@@ -91,7 +91,7 @@
 	    }
 	window.addEventListener('devtoolschange', event => {
 	    if (event.detail.isOpen) {
-    	    console.log("\n%c Panda子主题-https://www.scbkw.com", "color: #fff;background: linear-gradient(55deg, #212121 0%, #212121 40%, #323232 calc(40% + 1px), #323232 60%, #250095 calc(60% + 1px), #950090 70%, #ff14ed calc(70% + 1px), #6414ff 100%);padding:5px; border-radius: 5px;");
+    	    console.log("\n%c Panda子主题-https://www.scbkw.cn", "color: #fff;background: linear-gradient(55deg, #212121 0%, #212121 40%, #323232 calc(40% + 1px), #323232 60%, #250095 calc(60% + 1px), #950090 70%, #ff14ed calc(70% + 1px), #6414ff 100%);padding:5px; border-radius: 5px;");
 	        console.log("%c如果你通过控制台的方式获取CSS样式或者其他东东，相信你可能也看到本说明。 如果你想一声不吭的拿走，请自己把所有涉及到的链接图片保存到本地及保留版权来源，谢谢！","color: #fff;background: linear-gradient(55deg, #212121 0%, #212121 40%, #323232 calc(40% + 1px), #323232 60%, #250095 calc(60% + 1px), #950090 70%, #ff14ed calc(70% + 1px), #6414ff 100%);padding:5px; border-radius: 5px;line-height: 18px;");
 	    } else {
 	       window.history.back();

@@ -44,7 +44,7 @@
 
 .post-header-7e7 .group-singular-bg {
     z-index: 1;
-    background-color: var(--bg_color);
+    background-color: var(--head_bg_color);
 }
 
 .group-singular-bg {
@@ -99,10 +99,10 @@
 
 
 .post-header-7e7 .group-singular-bg .b-wrap::after {
-    background-image: -webkit-linear-gradient(192.6deg, rgba(250, 250, 250, 0.2) 2%, var(--bg_color) 80%);
-    background-image: -moz- oldlinear-gradient(192.6deg, rgba(250, 250, 250, 0.2) 2%, var(--bg_color) 80%);
-    background-image: -o-linear-gradient(192.6deg, rgba(250, 250, 250, 0.2) 2%, var(--bg_color) 80%);
-    background-image: linear-gradient(257.4deg, rgba(250, 250, 250, 0.2) 2%, var(--bg_color) 80%);
+    background-image: -webkit-linear-gradient(192.6deg, rgba(250, 250, 250, 0.2) 2%, var(--head_bg_color) 80%);
+    background-image: -moz- oldlinear-gradient(192.6deg, rgba(250, 250, 250, 0.2) 2%, var(--head_bg_color) 80%);
+    background-image: -o-linear-gradient(192.6deg, rgba(250, 250, 250, 0.2) 2%, var(--head_bg_color) 80%);
+    background-image: linear-gradient(257.4deg, rgba(250, 250, 250, 0.2) 2%, var(--head_bg_color) 80%);
 }
 
 .group-singular-bg .b-wrap::after {
